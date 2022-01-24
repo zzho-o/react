@@ -15,6 +15,11 @@ function App() {
         <p>2월 17일 발행</p>
         <hr />
       </div>
+      <div className="list">
+        <h3>{title[1]}</h3>
+        <p>2월 17일 발행</p>
+        <hr />
+      </div>
     </div>
   );
 }
